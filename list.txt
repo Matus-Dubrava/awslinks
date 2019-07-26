@@ -1,0 +1,3 @@
+Whitepaper - AWS Security incidence respose - https://d1.awsstatic.com/whitepapers/aws_security_incident_response.pdf
+Whitepaper - AWS KMS Best Practices - https://d1.awsstatic.com/whitepapers/aws-kms-best-practices.pdf
+Whitepaper - AWS Governance at Scale - https://d1.awsstatic.com/whitepapers/Security/AWS_Governance_at_Scale.pdf?trk=wp_card

@@ -1,0 +1,16 @@
+https://docs.aws.amazon.com/kms/latest/developerguide/services-dynamodb.html
+https://d0.awsstatic.com/whitepapers/Security/DDoS_White_Paper.pdf
+https://www.slideshare.net/AmazonWebServices/best-practices-for-active-directory-with-aws-workloads-80673222/39
+https://www.youtube.com/watch?v=AoHo47Hl2t0
+https://github.com/JuiceTheJiraffe/Jacob-Johnson/tree/master/Notes/AWS-Security-Cert-Study-Material
+https://d1.awsstatic.com/whitepapers/compliance/AWS_Answers_to_Key_Compliance_Questions.pdf
+https://d1.awsstatic.com/whitepapers/aws-kms-best-practices.pdf
+https://www.youtube.com/watch?v=zU1x5SfKEzs
+https://aws.amazon.com/blogs/security/aws-encryption-sdk-how-to-decide-if-data-key-caching-is-right-for-your-application/
+https://docs.aws.amazon.com/amazonglacier/latest/dev/vault-lock-policy.html
+https://aws.amazon.com/blogs/security/how-to-encrypt-and-sign-dynamodb-data-in-your-application/
+https://www.youtube.com/watch?v=Ofu22X7qHnc&t=1736s+%28AWS+re%3AInvent+2017%3A+Architecting+Container+Infrastructure+for+Security+and+Complianc+%28CON406%29%29
+https://docs.aws.amazon.com/quickstart/latest/active-directory-ds/vpc-rec.html
+https://docs.aws.amazon.com/quickstart/latest/active-directory-ds/architecture.html
+
+https://www.youtube.com/watch?v=YQsK4MtsELU
